@@ -6,3 +6,7 @@ See the resulting map as a GIF here:
 
 ![alt text](https://github.com/kruse-alex/airrohr/blob/master/airrohr_hamburg.gif)
 
+I also took a look at the development in different cities:
+
+![alt text](https://github.com/kruse-alex/airrohr/blob/master/airrohr_cities.gif)
+
